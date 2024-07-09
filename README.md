@@ -1,7 +1,7 @@
 # Mushtroom Genus Classifier
 
 ## Overview
-The project aimed to create a mushroom classifier, which identifies mushrooms from one of 12 classes based on the provided image. The dataset used is available <a href="[https://github.com/Soamid/obiektowe-lab/tree/master/proj](https://www.kaggle.com/datasets/mdhasanahmad/12-mushroom-species-dataset?fbclid=IwZXh0bgNhZW0CMTAAAR1GYquVdkfU8yjHhiqmMaGM4lA-qsbRNuKNlSemOfZ2AT-EJMFgKINXqs0_aem_vlqwX-apkz_lzKNbe250WQ)">here</a>..
+The project aimed to create a mushroom classifier, which identifies mushrooms from one of 12 classes based on the provided image. The dataset used is available <a href="https://www.kaggle.com/datasets/mdhasanahmad/12-mushroom-species-dataset?fbclid=IwZXh0bgNhZW0CMTAAAR1GYquVdkfU8yjHhiqmMaGM4lA-qsbRNuKNlSemOfZ2AT-EJMFgKINXqs0_aem_vlqwX-apkz_lzKNbe250WQ">here</a>.
 
 Before building the model, data augmentation was performed. The model is based on the ResNet101 architecture. We conducted five experiments to compare different optimizers and regularization techniques. Each model was trained for 50 epochs, and evaluation was done using standard metrics: Accuracy, Precision, Recall, and F1-score.
 
