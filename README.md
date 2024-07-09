@@ -33,7 +33,7 @@ Thanks to live training progress tracking, we decided to interrupt one of the ex
 </div>
 
 <div style="text-align:center">
-  <img src="README_files/reacall.png" style="display:block; margin: 0 auto;">
+  <img src="README_files/recall.png" style="display:block; margin: 0 auto;">
 </div>
 <div style="text-align:center">
   <img src="README_files/f1_score.png" style="display:block; margin: 0 auto;">
